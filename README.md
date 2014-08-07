@@ -42,8 +42,9 @@ Githubを使っていると彼女ができると聞きましたので、よろ�
 
 02. 上記のパートナーの条件を読んで苦情メールを出そうと思った人
 
-## shobotchのプロフィール
+## ky0615のプロフィール
 
+アダ名 : Joma (エナジードリンクに由来する)
 
 年齢 : 18歳(2014年8月現在)
 
@@ -151,4 +152,4 @@ A4. 誰ですかそれ
 
 
 ## ライセンス
-Copyright &copy; 2012 shobotch All Rights Reserved.
+Copyright &copy; 2012 ky0615 All Rights Reserved.
